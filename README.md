@@ -34,11 +34,11 @@ Each list item represents a task and changes its appearance when hovered, creati
 
 ## 📂 Project Structure
 
-📁 To-Do-List-App/
-│
-├── index.html # Main HTML file
-├── style.css # Styling file
-└── README.md # Project documentation
+📁 To-Do-List-App
+
+- index.html # Main HTML file
+- style.css # Styling file
+- README.md # Project documentation
 
 
 ---
